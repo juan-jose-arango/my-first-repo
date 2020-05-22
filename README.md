@@ -1,18 +1,18 @@
-#Juan José
+# Juan José
 
-###Geography
+### Geography
 I live in Colombia.
 
-###Reading
+### Reading
 I love reading:
 - *Harry Potter.*
--* Sherlock Holmes.*
+- *Sherlock Holmes.*
 
-###Food
+### Food
 I like eating:
 1. **Hambuerguers** (in plural).
 2. **Sushi**.
 3. **Eastern food.**
 
-###Contact
+### Contact
 You can look me up at [Google](www.google.com).
