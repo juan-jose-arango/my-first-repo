@@ -1,18 +1,5 @@
-# Juan José
-
-### Geography
-I live in Colombia.
-
-### Reading
-I love reading:
-- *Harry Potter.*
-- *Sherlock Holmes.*
-
-### Food
-I like eating:
-1. **Hambuerguers** (in plural).
-2. **Sushi**.
-3. **Eastern food.**
-
-### Contact
-You can look me up at [Google](https://www.google.com).
+# Final project: The Unix Workbench
+Date of README generation:
+vie 22 may 2020 22:09:39 -05
+The number of lines of code contained in the game file is:
+22
